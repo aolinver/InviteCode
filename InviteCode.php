@@ -1,4 +1,9 @@
 <?php
+/**
+ * 参考：
+ * https://my.oschina.net/bravozu/blog/1827254
+ * https://springboot.io/t/topic/1159
+ */
 class InviteCode
 {
     /**
